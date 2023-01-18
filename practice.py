@@ -872,3 +872,19 @@ supply_depot = BuildingUnit("서플라이 디폿", 500, "7시")
 
 ######### 파이썬
 python = "2023-01-18"
+
+# github 사용법
+# 다 사용 후 업로드 하기
+# git add .
+# git commit -m "~~~ commit"
+# git push origin master
+
+# 만약에
+# error: remote origin already exists.
+# 이미 연결된 게 있어서
+# 그걸 먼저 끊고 다시 연결해야됨
+# code
+# git remote remove origin
+# git remote add origin [새롭게 연결할 깃 레파지토리 주소]
+# git remote -v
+# git push origin master
