@@ -888,3 +888,7 @@ python = "2023-01-18"
 # git remote add origin [새롭게 연결할 깃 레파지토리 주소]
 # git remote -v
 # git push origin master
+
+# 오류 시 다시 해볼 것
+# error: src refspec master does not match any
+# error: failed to push some refs to 'https://github.com/99seonghak/python_first.git'
