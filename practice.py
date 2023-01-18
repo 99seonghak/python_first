@@ -868,3 +868,7 @@ class BuildingUnit(Unit):
 
 # 서플라이 디폿 : 건물, 1개 건물 = 8 유닛
 supply_depot = BuildingUnit("서플라이 디폿", 500, "7시")
+
+
+######### 파이썬
+python = "2023-01-18"
