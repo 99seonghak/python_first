@@ -892,3 +892,5 @@ python = "2023-01-18"
 # 오류 시 다시 해볼 것
 # error: src refspec master does not match any
 # error: failed to push some refs to 'https://github.com/99seonghak/python_first.git'
+
+#  git push origin main
